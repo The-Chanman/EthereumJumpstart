@@ -17,3 +17,5 @@ Next use `npm install`
 Then get started with [Truffle](http://truffleframework.com/docs/getting_started/project)
 
 To interact wtih your TestRPC with geth open up another terminal window and type `geth attach http://localhost:8545`
+
+Then use web3 commands to query the TestRPC
