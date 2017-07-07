@@ -19,3 +19,5 @@ Then get started with [Truffle](http://truffleframework.com/docs/getting_started
 To interact wtih your TestRPC with geth open up another terminal window and type `geth attach http://localhost:8545`
 
 Then use web3 commands to query the TestRPC which are found [here](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+
+How to use [Solidity](http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)
